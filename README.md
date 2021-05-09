@@ -20,13 +20,13 @@ p = QuickScrape()
 ```
 QuickScrape takes a parameter and that is the path of your chromedriver.exe file, by default, the path set is "C:\Program Files (x86)\chromedriver.exe". Please change this attribute if your chromedriver file is in a different path.
 
-The next step is to run the process method. It takes an attribute and that is headless. By default, headless is set to True. If set to boolean True, the process of opening the webpage will take place in the background. If set to boolean False, then you can see the process take place
+The next step is to run the process method. It takes an attribute and that is headless. By default, headless is set to True. If set to boolean True, the process of opening the webpage will take place in the background. If set to boolean False, then you can see the process take place.
 
 ```
 p.process() # Takes arguement True or False
 ```
-Remember to run this process method before you use any webscraping functions
-This module has three basic methods, they are 
+Remember to run this process method before you use any webscraping functions.
+This module has three basic methods, they are - 
 
 ```
 wiki_article = p.wiki_article(query)
@@ -78,3 +78,11 @@ https://www.khanacademy.org › ... › Intro to programming
 ## Built by
 #### DarkSkyProgrammers - 
 The programmers of this team are Arya Prabhu and Ananthram Vijayaraj.
+
+
+# Team logo
+
+
+
+
+![alt text](darkskylogo.jpeg)
