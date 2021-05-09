@@ -78,4 +78,3 @@ https://www.khanacademy.org › ... › Intro to programming
 ## Built by
 #### DarkSkyProgrammers - 
 The programmers of this team are Arya Prabhu and Ananthram Vijayaraj.
-
